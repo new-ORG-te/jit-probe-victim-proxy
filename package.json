@@ -1,0 +1,1 @@
+{"name": "jit-probe-victim-proxy", "version": "0.0.0", "private": false, "packageManager": "yarn@4.5.0", "dependencies": {"lodash": "4.17.20", "jit-probe-src8": "medo20-dev/jit-probe-src8#commit=43f1af3746c012e9b3a06ce01d801ea0c4cbd06e"}}
